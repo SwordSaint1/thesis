@@ -1,0 +1,41 @@
+ Software Development Life Cycle (SDLC)
+ is an in detail blueprint that defines how a software needs to be developed, maintained, replaced, modified or updated
+* Importance of SDLC 
+  - Allows parallel development
+  - Serves as a guide
+  - Allows you ot evaluate, schedule, and estimate the deliverables
+  - Provides a framework for a standard set of activities
+  - Ensure on time delivery
+
+    Planning-Requirement Analysis-Designing-Coding-Testing-Deployment-Maintenance 
+
+ Software Testing Life Cycle (STLC)
+ defines a series of activities conducted to perform Software Testing. 
+ Software testing is a process of evaluating the functionality of a software application to find any software bugs.
+* Importance od STLC
+  - Points out the defects and error
+  - Ensure customer reliability and satisfaction
+  - Delivers quality products
+  - Allows the software to stay in business
+  - Prevents from unwanted software failures and hence its cost overhead
+  
+     Requirement Analysis-Test Planning-Test Case Development-Environment Setup-Test Execution-Test Cycle Closure
+
+                                                SDLC VS STLC
+                                                  (ORIGIN PHASE)
+                                SOFTWARE DEVELOPMENT | SOFTWARE TESTING
+                                            (REQUIREMENT ANALYSIS PHASE)
+  PERFORMED BY SYSTEM ENGINEERS OR BUSINESS ANALYSTS | PERFORMED BY QUALITY ASSURANCE TEAM
+                                   FEASIBILITY STUDY | UNDERSTANDING TESTING REQUIREMENT
+ REQUIREMENT ELICITATION, SCHEDULING, TIME CONSTRAIN | INTERACTION TESTING STAKEHOLDERS SUCH AS CLIENT, BAs, TECHNICAL LEADS, etc
+                                               (DESIGN PHASE)
+
+
+                                               (CODING PHASE)
+          DESIGN IS WORKED OUT IN TERMS OF SOFTWARE  |  PERFORMED BY TEST TEAM
+                   PERFORMED BY SOFTWARE DEVELOPERS  | TEST CASES AND DATA IS PREPARED
+     VARIOUS TOOLS SUCH AS IDEs, TEXT EDITORS, COMPILERS, DEBUGGERS, INTERPRETERS, etc ARE USED
+
+                                               (TESTING PHASE)
+
+     
